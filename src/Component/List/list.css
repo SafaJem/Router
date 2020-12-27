@@ -1,0 +1,7 @@
+.movielist{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+   box-sizing: border-box;
+
+}
